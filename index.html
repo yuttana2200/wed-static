@@ -26,7 +26,7 @@
         <article class="card">
           <img src="https://www.melivecode.com/attractions/1.jpg" alt="Phi Phi Islands" style="width:100%">
           <div class="container">
-            <h4><b>Phi Phi Islands</b></h4>
+            <h4><strong>Phi Phi Islands</strong></h4>
             <p>Phi Phi Islands are a group of islands in Thailand between the large island of Phuket and the Malacca
               Coastal Strait of Thailand.</p>
             <button aria-label="Press to read more about Phi Phi Islands">Read more</button>
@@ -35,7 +35,7 @@
         <article class="card">
           <img src="https://www.melivecode.com/attractions/2.jpg" alt="Eiffel Tower" style="width:100%">
           <div class="container">
-            <h4><b>Eiffel Tower</b></h4>
+            <h4><strong>Eiffel Tower</strong></h4>
             <p>Eiffel Tower is one of the most famous structures in the world. Eiffel Tower is named after a leading
               French architect and engineer. It was built as a symbol of the World Fair in 1889.</p>
             <button aria-label="Press to read more about Phi Phi Islands">Read more</button>
@@ -44,7 +44,7 @@
         <article class="card">
           <img src="https://www.melivecode.com/attractions/3.jpg" alt="Times Square" style="width:100%">
           <div class="container">
-            <h4><b>Times Square</b></h4>
+            <h4><strong>Times Square</strong></h4>
             <p>Times Square has become a global landmark and has become a symbol of New York City. This is a result of
               Times Square being a modern, futuristic venue, with huge advertising screens dotting its surroundings.</p>
             <button aria-label="Press to read more about Phi Phi Islands">Read more</button>
